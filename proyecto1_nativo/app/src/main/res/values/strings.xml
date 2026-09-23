@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Contador Nativo</string>
+    <string name="contador_titulo">Proyecto 1: App Nativa Android</string>
+    <string name="btn_aumentar">Aumentar</string>
+    <string name="btn_disminuir">Disminuir</string>
+    <string name="btn_reiniciar">Reiniciar</string>
+</resources>
